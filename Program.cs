@@ -11,7 +11,7 @@ namespace Laba
             {
                 Console.WriteLine("Привет!");
             }
-            string nameAnimal = "Баксик";
+            string nameAnimal = "Шарик";
             Console.WriteLine($"Я очень люблю своего котика + {nameAnimal}!");
         }
 }
